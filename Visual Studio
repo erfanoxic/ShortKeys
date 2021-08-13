@@ -1,0 +1,18 @@
+show Overloads in IntelliSense = Ctrl+Shift+Space 
+
+insert line below = Ctrl+Enter 
+
+Move line up/down = Alt+ ↑ / ↓ 
+
+Delete line = Shift+Delet
+
+Add line comment = Ctrl+K+C
+Remove line comment = Ctrl+K+U
+
+Select current word = Ctrl+W [Text Editor]
+
+Peek definition = Alt+F12 [Text Editor]
+
+Collapse to definitions = Ctrl+M+O
+
+
