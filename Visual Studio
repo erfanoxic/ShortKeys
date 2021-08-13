@@ -15,4 +15,20 @@ Peek definition = Alt+F12 [Text Editor]
 
 Collapse to definitions = Ctrl+M+O
 
+Complete word = Ctrl+Space
 
+Find all references =	Shift+F12
+
+line up document 	Ctrl+K+D [Text Editor]
+line up selection 	Ctrl+K+F [Text Editor]
+
+Insert snippet = Ctrl+K+X
+snippetTool(Important Ones) = Ctrl+K+S
+
+List members = Ctrl+J
+
+Word delete to end = Ctrl+Delete [Text Editor]
+Word delete to start = Ctrl+Backspace 
+
+Class view = Ctrl+Shift+C
+Object browser = Ctrl+Alt+J
