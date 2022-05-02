@@ -1,3 +1,0 @@
-# ShortKeys
-
-Crl+B   bevel
