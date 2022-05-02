@@ -7,12 +7,10 @@ V   Snap Vertex
 X   Snap Grid
 
 D   Edit Pivot
+S   Set Keyframe
 
 Ctrl+1    toggle isolet selected object
 Alt+2   show and hide Polygons
-
-Ctrl+H    Hide selected object
-Shift+H   Show Hided Objects
 
 1   normal
 3   smooth
@@ -21,3 +19,25 @@ Shift+H   Show Hided Objects
 5   shaded
 6   textured
 Alt+5   wireframe On Shaded
+
+
+Alt+Shift+D   Delet History
+
+J   Snap Rotate
+G   Repeat an action
+H   toggel Show and Hide selected object
+
+P   parent
+shift+P   unparent
+
+[]    undo and redo view change
+\     toggle 2d pan\zoom
+
+Alt+D   deselect all
+Alt+B   Cycle background color
+Alt+V   toggle Playback
+
+x     toggle xray View (Have to setup)
+c     multicut tool (Have to setup)
+
+
