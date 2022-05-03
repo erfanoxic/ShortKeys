@@ -40,4 +40,4 @@ Alt+V   toggle Playback
 x     toggle xray View (Have to setup)
 c     multicut tool (Have to setup)
 
-
+Ctrl+A    toggle Attribute editor / channel box
