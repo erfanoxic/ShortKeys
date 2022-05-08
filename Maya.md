@@ -45,3 +45,8 @@ Ctrl+Shift+C    creat camera
 
 Shift+>   Grow selection
 Shift+<   shirink selection
+
+
+B   brush and falloff selection
+B + LMB or MMB   change brush size
+M + LMB or MMB   change brush strength (ON Scupting)
