@@ -53,3 +53,7 @@ Shift+<   shirink selection
 B   brush and falloff selection
 B + LMB or MMB   change brush size
 M + LMB or MMB   change brush strength (ON Scupting)
+
+
+T   Show Manipulator Box when object selected (like extrude or bevel's option box)
+Ctrl + T    Show Manipulation
