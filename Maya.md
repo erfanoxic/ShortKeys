@@ -31,7 +31,10 @@ P   parent
 shift+P   unparent
 
 []    undo and redo view change
+
 \     toggle 2d pan\zoom
+\ + MMB   2D pan (Hold \)
+\ + RMB   2D zoom (Hold \)
 
 Alt+D   deselect all
 Alt+B   Cycle background color
