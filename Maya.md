@@ -42,3 +42,6 @@ c     multicut tool (Have to setup)
 
 Ctrl+A    toggle Attribute editor / channel box
 Ctrl+Shift+C    creat camera
+
+Shift+>   Grow selection
+Shift+<   shirink selection
