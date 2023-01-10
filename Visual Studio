@@ -1,4 +1,4 @@
-show Overloads in IntelliSense = Ctrl+Shift+Space { click in the middle of parenthesis () }
+show Overloads in IntelliSense = Ctrl+Shift+Space { click in the middle of parenthesis () or the cursure must be in the middle of the paranthesis}
 
 insert line below = Ctrl+Enter 
 
