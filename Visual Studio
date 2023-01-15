@@ -6,6 +6,8 @@ Move line up/down = Alt+ ↑ / ↓
 
 Delete line = Shift+Delet
 
+comment MultiLine out = ctrl + shift + ?
+
 Add line comment = Ctrl+K+C
 Remove line comment = Ctrl+K+U
 
